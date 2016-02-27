@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[All Things Cycling Arizona Style]]></title>
+        <description><![CDATA[All Things Cycling Arizona Style]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 04:11:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Salt River Cyclists Logo]]></title>
+            <description><![CDATA[<article><h1>Salt River Cyclists Logo</h1><p>SRC Blue Logo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40ada7a089ce34a48bb7b99a7ea5f7c3c15f1905.jpg"></article>]]></description>
+            <link>undefined7c22cdc0-d9ef-495d-a50e-4270a349535e/index.html</link>
+            <guid isPermaLink="false">7c22cdc0-d9ef-495d-a50e-4270a349535e</guid>
+            <pubDate>Sat, 27 Feb 2016 04:11:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
